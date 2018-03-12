@@ -1,0 +1,35 @@
+https://www.kaggle.com/netflix-inc/netflix-prize-data/data
+
+The file "training_set.tar" is a tar of a directory containing 17770 files, one per movie.
+
+
+The first line of each file contains the movie id followed by a colon.
+
+Each subsequent line in the file corresponds to a rating from a customer and
+its date in the following format: CustomerID,Rating,Date - MovieIDs range
+ from 1 to 17770 sequentially. - CustomerIDs range from 1 to 2649429, with gaps.
+ There are 480189 users. - Ratings are on a five star (integral) scale
+ from 1 to 5. - Dates have the format YYYY-MM-DD.
+
+1:
+1488844,3,2005-09-06
+822109,5,2005-05-13
+885013,4,2005-10-19
+30878,4,2005-12-26
+823519,3,2004-05-03
+893988,3,2005-11-17
+124105,4,2004-08-05
+1248029,3,2004-04-22
+1842128,4,2004-05-09
+2238063,3,2005-05-11
+1503895,4,2005-05-19
+2207774,5,2005-06-06
+2590061,3,2004-08-12
+2442,3,2004-04-14
+543865,4,2004-05-28
+1209119,4,2004-03-23
+804919,4,2004-06-10
+1086807,3,2004-12-28
+1711859,4,2005-05-08
+372233,5,2005-11-23
+1080361,3,2005-03-28
